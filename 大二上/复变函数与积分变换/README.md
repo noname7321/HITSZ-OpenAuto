@@ -8,6 +8,9 @@
   - 校用教材《复变函数与积分变换 简明教程》的编者之一
   - 关于他的描述，在 [微积分B](https://github.com/HITSZ-Auto/HITSZ-OpenAuto/tree/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6B) 课程描述中已经提到过了。
 
+- 教师2：Bao Yixin
+  -纯板书授课，一般大家都不会听他的课 
+
 ## 关于考试
 - 考试难度：
 
